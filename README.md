@@ -1,4 +1,4 @@
-## TO conect Mysql from PHP
+## TO conect Mysql from PHP For MAC OS
 docker.for.mac.host.internal
 
 ## Start Docker
